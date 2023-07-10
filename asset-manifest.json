@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/algososh-eng/static/css/main.686cd773.css",
-    "main.js": "/algososh-eng/static/js/main.7f6a7afc.js",
+    "main.js": "/algososh-eng/static/js/main.f9446191.js",
     "static/js/787.0d1937ff.chunk.js": "/algososh-eng/static/js/787.0d1937ff.chunk.js",
     "static/media/bg.jpg": "/algososh-eng/static/media/bg.971318c52485d1963a30.jpg",
     "static/media/fibonacci-hover.svg": "/algososh-eng/static/media/fibonacci-hover.40a2640350b0d0f94afd.svg",
@@ -19,11 +19,11 @@
     "index.html": "/algososh-eng/index.html",
     "static/media/loader.svg": "/algososh-eng/static/media/loader.3560c7ba1c44b9900cfc03ff6ddbe067.svg",
     "main.686cd773.css.map": "/algososh-eng/static/css/main.686cd773.css.map",
-    "main.7f6a7afc.js.map": "/algososh-eng/static/js/main.7f6a7afc.js.map",
+    "main.f9446191.js.map": "/algososh-eng/static/js/main.f9446191.js.map",
     "787.0d1937ff.chunk.js.map": "/algososh-eng/static/js/787.0d1937ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.686cd773.css",
-    "static/js/main.7f6a7afc.js"
+    "static/js/main.f9446191.js"
   ]
 }
