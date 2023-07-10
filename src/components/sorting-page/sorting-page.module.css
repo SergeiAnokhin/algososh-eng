@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.radioButtons {
+  display: flex;
+  column-gap: 40px;
+  margin-right: 52px;
+}
+
+.buttons {
+  display: flex;
+  column-gap: 12px;
+  margin-right: 80px;
+}
+
+.array {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 10px;
+  margin: 48px auto 0;
+  height: 342px;
+  overflow: hidden;
+}
