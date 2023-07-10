@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/algososh-eng/static/css/main.686cd773.css",
+    "main.js": "/algososh-eng/static/js/main.7f6a7afc.js",
+    "static/js/787.0d1937ff.chunk.js": "/algososh-eng/static/js/787.0d1937ff.chunk.js",
+    "static/media/bg.jpg": "/algososh-eng/static/media/bg.971318c52485d1963a30.jpg",
+    "static/media/fibonacci-hover.svg": "/algososh-eng/static/media/fibonacci-hover.40a2640350b0d0f94afd.svg",
+    "static/media/arr-hover.svg": "/algososh-eng/static/media/arr-hover.bc668602e988640a1ff7.svg",
+    "static/media/arr.svg": "/algososh-eng/static/media/arr.afc85dd52d5c6ffe8bb4.svg",
+    "static/media/fibonacci.svg": "/algososh-eng/static/media/fibonacci.4638f3a247fbbef51aee.svg",
+    "static/media/list-hover.svg": "/algososh-eng/static/media/list-hover.f155ea190edfaf8dbf46.svg",
+    "static/media/list.svg": "/algososh-eng/static/media/list.ff61c735048ecd5f1c93.svg",
+    "static/media/queue-hover.svg": "/algososh-eng/static/media/queue-hover.8bdc0efbc383e084428e.svg",
+    "static/media/stack-hover.svg": "/algososh-eng/static/media/stack-hover.91690f66031fa73b28d4.svg",
+    "static/media/queue.svg": "/algososh-eng/static/media/queue.ccc08e5fc693be411eee.svg",
+    "static/media/stack.svg": "/algososh-eng/static/media/stack.15179ae8a6e1b01d4231.svg",
+    "static/media/string-hover.svg": "/algososh-eng/static/media/string-hover.cfc27e0cdf82b443fdcc.svg",
+    "static/media/string.svg": "/algososh-eng/static/media/string.6278860b07e0d51b90b2.svg",
+    "index.html": "/algososh-eng/index.html",
+    "static/media/loader.svg": "/algososh-eng/static/media/loader.3560c7ba1c44b9900cfc03ff6ddbe067.svg",
+    "main.686cd773.css.map": "/algososh-eng/static/css/main.686cd773.css.map",
+    "main.7f6a7afc.js.map": "/algososh-eng/static/js/main.7f6a7afc.js.map",
+    "787.0d1937ff.chunk.js.map": "/algososh-eng/static/js/787.0d1937ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.686cd773.css",
+    "static/js/main.7f6a7afc.js"
+  ]
+}
